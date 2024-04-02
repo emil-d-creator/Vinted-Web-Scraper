@@ -3,7 +3,16 @@ HELLO
 
 TO USE PROGRAM YOU HAVE TO INSTALL requirments.txt AND  gitupload.py.
 
-TO USE IT ON YOUR OWN YOU WILL HAVE TO CHANGE A FEW THINGS THAT I MARKED AS # AND NUMBER
+git clone https://github.com/XEMilX/Vinted-Web-Scraper.git
+
+cd Vinted-Web-Scraper
+
+pip install -r requirements.txt
+
+
+
+
+TO USE IT ON YOUR OWN YOU WILL HAVE TO CHANGE A FEW THINGS THAT I MARKED AS # AND NUMBER IN FILE gitupload.py
 
 SO LETS'GO
 
