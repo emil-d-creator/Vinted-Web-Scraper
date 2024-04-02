@@ -1,0 +1,4 @@
+pandas==2.2.1
+PyAutoGUI==0.9.54
+Requests==2.31.0
+selenium==4.19.0
